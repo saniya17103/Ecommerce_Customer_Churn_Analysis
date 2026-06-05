@@ -1,10 +1,6 @@
-# 📊 Customer Churn Analysis & Prediction
+📊 Customer Churn Analysis & Prediction
 
-An end-to-end Data Analytics project that analyzes customer purchasing behavior using the Brazilian E-Commerce (Olist) dataset to identify churn patterns and uncover key factors influencing customer retention.
-
-🚀 Built a customer-level analytical dataset using SQL and Python by integrating customer, order, payment, review, and delivery data.
-
-📈 Performed Exploratory Data Analysis (EDA), feature engineering, and churn analysis to identify high-risk customers and generate actionable business insights.
+An end-to-end customer analytics project focused on identifying churn patterns, understanding customer behavior, and generating actionable business insights to improve retention and revenue growth.
 
 🔍 Key metrics analyzed include:
 - Customer Purchase Frequency
